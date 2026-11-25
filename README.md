@@ -7,6 +7,7 @@ I'm currently developing my programming skills through coursework and hands-on p
 💻 Technical Skills
 - Languages: Java, C++, and MATLAB
 - Technologies: JavaFX
+- Eclipse IDE, GitHub
 - Concepts: Object-Oriented Programming, Classes and Objects, Inheritance, Interfaces, Encapsulation, File Handling
 
 🚀 Projects
